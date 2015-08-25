@@ -39,8 +39,9 @@
         android:text="@string/project5" />
 
     <Button
+        android:background="#D7CCC8"
         style="@style/ProjectButtons"
-        android:backgroundTint="#D7CCC8"
-        android:text="@string/project6" />
+        android:text="@string/project6"
+        />
 
 </LinearLayout>
