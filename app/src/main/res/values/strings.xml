@@ -6,11 +6,11 @@
     <string name="action_settings">Settings</string>
 
      <!--Name of the projects to work on throughout the Nanodegree -->
-    <string name="project1">Movie App</string>
-    <string name="project2">Scores App</string>
-    <string name="project3">Library App</string>
-    <string name="project4">Build it Bigger</string>
-    <string name="project5">Variable Reader</string>
-    <string name="project6">Capstone: My Own App</string>
+    <string name="movie_project">Movie App</string>
+    <string name="scores_project">Scores App</string>
+    <string name="library_project">Library App</string>
+    <string name="build_it_bigger_project">Build it Bigger</string>
+    <string name="variable_project">Variable Reader</string>
+    <string name="capstone_project">Capstone: My Own App</string>
 
 </resources>
